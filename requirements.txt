@@ -1,3 +1,9 @@
 torch
 transformers
 streamlit
+ast
+pandas 
+numpy
+datasets
+jsonlines
+json
